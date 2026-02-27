@@ -2,6 +2,8 @@
 
 A beginner-friendly task tracker built with HTML, CSS, and JavaScript. Perfect for learning web development basics!
 
+**[Live Demo](https://beginner-tracker-task.vercel.app/)** ← here
+
 ## Features
 
 - ✅ Add new tasks
